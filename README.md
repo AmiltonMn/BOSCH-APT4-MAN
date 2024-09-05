@@ -8,13 +8,13 @@ npm run dev
 
 \_\_\_TAREFAS GERAIS - 0,5ptos (0,25 cada)
 
-- os botoes devem ficar fixos na tela, no top "0".
-- todas as imagens devem estar baixadas dentro da pasta assets podendo alterar o tema do json se quiserem
+- <del> os botoes devem ficar fixos na tela, no top "0". <del/>
+- <del> todas as imagens devem estar baixadas dentro da pasta assets podendo alterar o tema do json se quiserem <del/>
 
 \_\_\_GIT - 2,0ptos (1,0 cada)
 
-- clone este repositório para o seu próprio, deixando apenas uma pasta root para futura manutenção de implantação.
-- o versionamento de branchs deve corresponder ao conhecimento adquirido nas 2 aulas anteriores, onde a nomenclatura dos commits e das branchs devem condizer a feature realizada e ser efetuado os merges pra dev, ao final para main.
+- <del> clone este repositório para o seu próprio, deixando apenas uma pasta root para futura manutenção de implantação. <del/>
+- <del> o versionamento de branchs deve corresponder ao conhecimento adquirido nas 2 aulas anteriores, onde a nomenclatura dos commits e das branchs devem condizer a feature realizada e ser efetuado os merges pra dev, ao final para main. <del/>
 
 \_\_\_PRODUTOS - 1,5ptos (0,3cada)
 

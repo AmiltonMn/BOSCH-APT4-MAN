@@ -1,16 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Perfume",
-    "desc": "Miguel Rousseouf",
-    "value": "100.00",
-    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg"
+    "name": "Batata Asterix",
+    "desc": "A batata-asterix, conhecida por sua casca vermelha, é ideal para frituras devido à firmeza e baixo teor de água",
+    "value": "14.90",
+    "image": "../../src/assets/BatataAsterix.jpg"
   },
   {
     "id": 2,
-    "name": "Colar",
-    "desc": "Jand Karno em perolas",
-    "value": "2200.00",
-    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg"
+    "name": "Batata Doce",
+    "desc": "A batata-doce, também chamada batata-da-terra, batata-da-ilha, jatica e jetica, é uma planta da família das convolvuláceas, da ordem das Solanales",
+    "value": "9.90",
+    "image": "../../src/assets/BatataDoce.webp"
+  },
+  {
+    "id": 3,
+    "name": "Batata Salsa",
+    "desc": "Por conter teores baixos de amilopectina e ausência total de fatores antinutricionais, a batata salsa garante o título de alimento de fácil digestão.",
+    "value": "12.99",
+    "image": "../../src/assets/BatataSalsa.webp"
+  },
+  {
+    "id": 4,
+    "name": "Batata Yukon Gold",
+    "desc": "A batata Yukon Gold é uma variedade popular conhecida por sua pele amarela e polpa cremosa e amarela. Originária do Canadá, é apreciada por seu sabor levemente amanteigado e pela textura macia, o que a torna uma excelente escolha para uma variedade de preparações culinárias.",
+    "value": "15.00",
+    "image": "../../src/assets/BatataYukonGold.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Batata Inglesa",
+    "desc": "Tem uma textura macia quando cozida e é versátil na culinária, sendo ideal para purês, frituras e assados. Seu sabor é neutro, o que a torna um acompanhamento popular em muitas refeições.",
+    "value": "15.00",
+    "image": "../../src/assets/BatataInglesa.png"
   }
 ]
