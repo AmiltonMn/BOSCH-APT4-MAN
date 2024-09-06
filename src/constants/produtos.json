@@ -2,35 +2,54 @@
   {
     "id": 1,
     "name": "Batata Asterix",
-    "desc": "A batata-asterix, conhecida por sua casca vermelha, é ideal para frituras devido à firmeza e baixo teor de água",
+    "desc": "A batata-asterix.",
+    "state": false,
+    "categoria": "Batata",
     "value": "14.90",
     "image": "../../src/assets/BatataAsterix.jpg"
   },
   {
     "id": 2,
     "name": "Batata Doce",
-    "desc": "A batata-doce, também chamada batata-da-terra, batata-da-ilha, jatica e jetica, é uma planta da família das convolvuláceas, da ordem das Solanales",
+    "state": true,
+    "categoria": "Batata",
+    "desc": "A batata-doce.",
     "value": "9.90",
     "image": "../../src/assets/BatataDoce.webp"
   },
   {
     "id": 3,
     "name": "Batata Salsa",
-    "desc": "Por conter teores baixos de amilopectina e ausência total de fatores antinutricionais, a batata salsa garante o título de alimento de fácil digestão.",
+    "state": false,
+    "categoria": "Batata",
+    "desc": "A Batata Salsa.",
     "value": "12.99",
     "image": "../../src/assets/BatataSalsa.webp"
   },
   {
     "id": 4,
     "name": "Batata Yukon Gold",
-    "desc": "A batata Yukon Gold é uma variedade popular conhecida por sua pele amarela e polpa cremosa e amarela. Originária do Canadá, é apreciada por seu sabor levemente amanteigado e pela textura macia, o que a torna uma excelente escolha para uma variedade de preparações culinárias.",
+    "state": true,
+    "categoria": "Batata",
+    "desc": "A batata Yukon Gold.",
     "value": "15.00",
     "image": "../../src/assets/BatataYukonGold.jpg"
   },
   {
     "id": 5,
     "name": "Batata Inglesa",
-    "desc": "Tem uma textura macia quando cozida e é versátil na culinária, sendo ideal para purês, frituras e assados. Seu sabor é neutro, o que a torna um acompanhamento popular em muitas refeições.",
+    "state": false,
+    "categoria": "Batata",
+    "desc": "A Batata Inglesa.",
+    "value": "15.00",
+    "image": "../../src/assets/BatataInglesa.png"
+  },
+  {
+    "id": 6,
+    "name": "Batata Inglesa",
+    "state": false,
+    "categoria": "Batata",
+    "desc": "A Batata Inglesa.",
     "value": "15.00",
     "image": "../../src/assets/BatataInglesa.png"
   }
