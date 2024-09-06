@@ -35,9 +35,9 @@ npm run dev
 
 \_\_\_MAPA - 1,0pto
 
-- usando o leaftlet e o react-leaft-let, fazer um mapa com a localizacao do Senai.
+- <del> usando o leaftlet e o react-leaft-let, fazer um mapa com a localizacao do Senai. <del/>
 
-- IMPORTS para debug de mapa, instalar o leaflet-defaulticon-compatibility
+- <del> IMPORTS para debug de mapa, instalar o leaflet-defaulticon-compatibility
 
 import 'leaflet/dist/leaflet.css';
 
@@ -51,7 +51,7 @@ https://www.npmjs.com/package/react-draggable
 
 https://www.npmjs.com/package/react-tilt
 
-https://vitejs.dev/
+https://vitejs.dev/ <del/>
 
 \_\_\_GRÁFICOS E REACT ROUTER DOM - 2,0ptos (1,0 e 1,0 cada)
 
