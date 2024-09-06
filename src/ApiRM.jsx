@@ -2,6 +2,7 @@ import { api } from "./api/rmApi"
 import { Buttons } from "./components/Buttons"
 import { CardApi } from './components/Card'
 import { useEffect, useState } from "react"
+import Draggable from 'react-draggable';
 import style from "./CSS/ApiRM.module.css"
 
 
@@ -36,8 +37,8 @@ export default function ApiPage() {
             {data.map((item) => {   
                 return(
                 <div key={item.id}>
-                <CardApi name={item.name} status={item.status} species={item.species} type={item.type} gender={item.gender} image={item.image}  />
-                {/* <button onClick={() => {}}>Info</button> */}
+                    <CardApi name={item.name} status={item.status} species={item.species} type={item.type} gender={item.gender} image={item.image}  />
+                    {/* <button onClick={() => {}}>Info</button> */}
                 </div>
                 )
             })}
