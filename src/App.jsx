@@ -5,10 +5,10 @@ function App() {
 
   return (
     <>
-    <Buttons />
-    <div  className={style.wrapPage}>
-      <h1>Exercícios de manutenção</h1>
-    </div>
+      <Buttons />
+      <div className={style.wrapPage}>
+        <h1><b>Exercícios de manutenção</b></h1>
+      </div>
     </>
   )
 }

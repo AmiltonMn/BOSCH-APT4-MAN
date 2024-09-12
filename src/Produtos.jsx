@@ -7,14 +7,17 @@ export default function ProdPage(){
     return (
         <>
         <Buttons />
-        <h2>Showroom de produtos</h2>
-        <div className={style.CardDeck}>
-        {produtos.map((item) => {
-            return(
-            <Card status={item.state} name={item.name} desc={item.desc} value={item.value} image={item.image} key={item.id}/>
-            )
-            })}
-        </div>
+            <div style={{display:'flex', justifyContent:'center', marginTop: '90px'}}>
+                <h2>Showroom de produtos</h2>
+            </div>
+            
+            <div className={style.CardDeck}>
+                {produtos.map((item) => {
+                return(
+                <Card status={item.state} name={item.name} desc={item.desc} value={item.value} image={item.image} key={item.id}/>
+                )
+                })}
+            </div>
         </>
     )
 }

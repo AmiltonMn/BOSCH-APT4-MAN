@@ -1,0 +1,44 @@
+.Dead
+{
+    background-color: rgb(209, 23, 23);
+    width: 15px;
+    height: 15px;
+    border-radius: 999px;
+}
+
+.Alive
+{
+    background-color: rgb(13, 187, 13);
+    width: 15px;
+    height: 15px;
+    border-radius: 999px;
+}
+
+.Unknown
+{
+    background-color: grey;
+    width: 15px;
+    height: 15px;
+    border-radius: 999px;
+}
+
+.CardModal
+{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(55, 16, 92);
+    border: 1px solid rgb(128, 203, 228);
+    flex-direction: column;
+    width: 300px;
+    height: 400px;
+    border-radius: 25px;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+
+    z-index: 1;
+
+    img {
+        border-radius: 15px;
+    }
+}

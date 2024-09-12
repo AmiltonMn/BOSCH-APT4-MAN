@@ -1,4 +1,5 @@
-*{
+*
+{
   box-sizing: border-box;
 }
 
@@ -7,10 +8,9 @@
   height: auto;
   display: flex;
   flex-direction: column;
-  align-items: left;
+  align-items: center;
   justify-content: center;
   gap: 1vh;
   padding: 10px;
   background-color: rgb(47, 47, 47);
-  margin-top: 50px;
 }

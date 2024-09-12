@@ -5,8 +5,8 @@
     "desc": "A batata-asterix.",
     "state": false,
     "categoria": "Batata",
-    "value": "14.90",
-    "image": "../../src/assets/BatataAsterix.jpg"
+    "value": 14.90,
+    "image": "../../src/assets/BatataAsterix.png"
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "state": true,
     "categoria": "Batata",
     "desc": "A batata-doce.",
-    "value": "9.90",
-    "image": "../../src/assets/BatataDoce.webp"
+    "value": 9.90,
+    "image": "../../src/assets/BatataDoce.png"
   },
   {
     "id": 3,
@@ -23,8 +23,8 @@
     "state": false,
     "categoria": "Batata",
     "desc": "A Batata Salsa.",
-    "value": "12.99",
-    "image": "../../src/assets/BatataSalsa.webp"
+    "value": 12.99,
+    "image": "../../src/assets/BatataSalsa.png"
   },
   {
     "id": 4,
@@ -32,8 +32,8 @@
     "state": true,
     "categoria": "Batata",
     "desc": "A batata Yukon Gold.",
-    "value": "15.00",
-    "image": "../../src/assets/BatataYukonGold.jpg"
+    "value": 15.00,
+    "image": "../../src/assets/BatataYukon.png"
   },
   {
     "id": 5,
@@ -41,16 +41,7 @@
     "state": false,
     "categoria": "Batata",
     "desc": "A Batata Inglesa.",
-    "value": "15.00",
-    "image": "../../src/assets/BatataInglesa.png"
-  },
-  {
-    "id": 6,
-    "name": "Batata Inglesa",
-    "state": false,
-    "categoria": "Batata",
-    "desc": "A Batata Inglesa.",
-    "value": "15.00",
+    "value": 12.00,
     "image": "../../src/assets/BatataInglesa.png"
   }
 ]

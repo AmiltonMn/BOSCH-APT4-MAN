@@ -8,7 +8,9 @@ export default function MapPage(){
     return (
         <>
         <Buttons />
-        <h2>Mapa</h2>
+        <div style={{display:'flex', justifyContent:'center', marginTop:'90px'}}>
+            <h2>Mapa</h2>
+        </div>
         <div style={{marginTop: '15px'}}>
             <Map/>
         </div>
